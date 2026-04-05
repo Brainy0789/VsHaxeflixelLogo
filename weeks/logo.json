@@ -1,0 +1,27 @@
+{
+	"songs": [
+		[
+			"Flixel",
+			"logo",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "logo",
+	"difficulties": "NORMAL",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
